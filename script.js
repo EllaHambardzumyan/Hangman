@@ -164,7 +164,7 @@ const canvasCreator = () =>{
      };
 
      const rightArm = ()=>{
-        drawLine(70,80,50,110);
+        drawLine(70,50,50,70);
      };
 
      const leftLeg = () =>{
